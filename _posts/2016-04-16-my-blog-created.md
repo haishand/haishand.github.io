@@ -8,5 +8,5 @@ title: My Blog Created
 
 <p class="meta">16 April 2016 - Qingdao</p>
 
-
+Create this site to track my moving forward.
 --
