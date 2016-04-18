@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning How to Learn
+title: My Blog Created
 ---
 
 {{ page.title }}
