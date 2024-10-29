@@ -1,13 +1,21 @@
 ---
 layout: post
-title: My Blog Created
+title: My useful links
 ---
 
 {{ page.title }}
 ================
 
-<p class="meta">16 April 2016 - Qingdao</p>
+<p class="meta">29 Oct. 2024 updated</p>
 
-Create this site to track my moving steps.
-试试中文如何？
+
+cp sheet:
+https://docs.google.com/spreadsheets/d/1xzH-Bj66q4OfnQxI1h1miywM1Y1Z92RkMoX5jYsqzEk/edit?gid=0#gid=0
+
+play Alcumus:
+https://artofproblemsolving.com/alcumus/problem
+
+cf record ref:
+https://codeforces.com/contests/with/hhhyh
+
 --
