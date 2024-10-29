@@ -21,6 +21,7 @@ title: My shortcuts
 
 <p><h1>mldl</h1></p>
 <p><a href="https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php">lhy_ml</a></p>
+<p><a href="https://github.com/apachecn/AiLearning?tab=readme-ov-file">ai-learning</a></p>
 
 
 end.
