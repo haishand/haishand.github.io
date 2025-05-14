@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Self-deception
+title: Self-deception: maybe why you're still grey after practicing every day
 ---
 
 {{ page.title }}
