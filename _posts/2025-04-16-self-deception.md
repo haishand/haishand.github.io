@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Self-deception
+title: self-deception
 ---
 
 {{ page.title }}
