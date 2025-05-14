@@ -3,6 +3,8 @@ layout: post
 title: Self-deception
 ---
 
+{{ page.title }}
+================
 
 # 自我欺骗：或许这就是你每日练习却仍停滞不前的原因
 (https://codeforces.com/blog/entry/98621)
