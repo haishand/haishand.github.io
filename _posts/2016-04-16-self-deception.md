@@ -3,8 +3,9 @@ layout: post
 title: Self-deception: maybe why you're still grey after practicing every day
 ---
 
+
 # 自我欺骗：或许这就是你每日练习却仍停滞不前的原因
-2022年5月15日15:41:28
+(https://codeforces.com/blog/entry/98621)
 
 我通常不太喜欢就“如何练习”给出太多建议，但最近我对此思考了很多，并且意识到有一个因素影响着许多人（尽管确实很难说清楚），却几乎没人谈及：自我欺骗。
 
