@@ -6,8 +6,7 @@ title: shortcuts
 {{ page.title }}
 ================
 
-<p class="meta">My Shortcuts:</p>
-
+<p><h1>Overall</h1></p>
 <p><a href="https://csdiy.wiki/">CS自学指南</a></p>
 
 <p><h1>Math</h1></p>
