@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My shortcuts
+title: shortcuts
 ---
 
 {{ page.title }}
