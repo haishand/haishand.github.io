@@ -25,6 +25,7 @@ title: shortcuts
 
 <p><h1>Machine Learning & Deep Learning</h1></p>
 <p><a href="https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php">lhy_ml</a></p>
+<p><a href="https://github.com/ashishpatel26/Andrew-NG-Notes/tree/master">Andrew NG Notes Collection</a></p>
 <p><a href="https://github.com/apachecn/AiLearning?tab=readme-ov-file">ai-learning</a></p>
 
 
