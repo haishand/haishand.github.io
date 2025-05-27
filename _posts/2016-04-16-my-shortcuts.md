@@ -24,8 +24,10 @@ title: shortcuts
 <p><a href="https://github.com/12Tall/lsbasi_cn">Let’s Build A Simple Interpreter</a></p>
 
 <p><h1>Machine Learning & Deep Learning</h1></p>
-<p><a href="https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php">lhy_ml</a></p>
+<p><a href="https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php">李宏毅ML2021-spring</a></p>
+<p><a href="https://www.youtube.com/watch?v=xCGidAeyS4M&t=194s&ab_channel=Hung-yiLee">李宏毅RNN</a></p>
 <p><a href="https://github.com/ashishpatel26/Andrew-NG-Notes/tree/master">Andrew NG Notes Collection</a></p>
+<p><a href="https://c.d2l.ai/zh-v2/">动手学深度学习在线课程</a></p>
 <p><a href="https://github.com/apachecn/AiLearning?tab=readme-ov-file">ai-learning</a></p>
 
 
